@@ -39,3 +39,12 @@ table {
     font-weight: bold;
   }
   
+  img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+
+  hr {
+    border-top: 5px dotted;
+  }
